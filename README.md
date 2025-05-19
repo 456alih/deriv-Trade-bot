@@ -37,15 +37,15 @@ https://rb.gy/xqt44t
 # Wondering how to deposit
 
 # Simply deposit with MPESA by following this steps: -
-- Kindly send the amount you want to deposit to till 4475834 (GEIGHTFORGEIGHT INVESTMENT)
-- whatsapp your cr number to 0792 673 175
+- I will assit you on how to make deposits and withdraws
+- whatsapp your cr number to 0745225589
 - wait 1 minute and the deposit should be done
 - check your account to ensure the dollars have been credited
 
-# WHERE TO LEARN FOR FREE
-Youtube: https://www.youtube.com/channel/UCVpd8EuS8yAWMGkNtZ23Y3A
 
-- 
+
+
+  
 Usage
 Check the guide inside each bot’s directory to learn how to deploy and customize the trading bot.
 
